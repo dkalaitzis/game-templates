@@ -1,0 +1,1 @@
+print ("Hello this is the CM1101 templates")
